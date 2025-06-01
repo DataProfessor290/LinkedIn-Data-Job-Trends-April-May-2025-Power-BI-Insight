@@ -89,7 +89,7 @@ The interactive dashboard features:
 - Visual summaries of **trends**, **top roles**, and **weekly distribution**
 - A user-friendly layout that highlights comparisons and role-specific demand
 
-📎 **[Download the interactive dashboard](https://app.powerbi.com/groups/e315becd-0683-4601-ab41-b1f015de48b7/reports/b70b0db3-9edc-4321-8e69-c56d73407ea2/2e46504132585de40aa9?experience=power-bi)** 
+📎 **[Download the interactive dashboard](https://app.powerbi.com/links/ef8Z0fqpKk?ctid=24c6c2c6-b599-4777-a350-7c28d6ab4a04&pbi_source=linkShare)** 
 
 ---
 
